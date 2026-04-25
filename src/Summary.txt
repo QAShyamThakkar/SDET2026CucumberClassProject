@@ -1,0 +1,26 @@
+1. Feature file (English)
+
+2. Step Definition (code)
+
+3. Hooks - Before/After
+
+4. Runner File (Java file)
+
+	Dry Run
+	Groupings
+	Plugin
+	Glue
+	Tag
+
+5. Better Reporting
+
+6. Background
+
+7. Assertions:
+	Assert.equal
+	Assert.true
+
+8. Data Driven Testing
+	a. Passing parameters from Feature File
+	b. Scenario Outline
+	c. Data Tables

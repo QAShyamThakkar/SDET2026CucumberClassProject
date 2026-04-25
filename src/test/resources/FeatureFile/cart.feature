@@ -18,6 +18,7 @@ Feature: Validate Cart Functionalities
     When user clicks on  cart button
     Then verify user is on cart page
 
+  @Regression @Shyam
   Scenario: Verify user can remove product to the cart
     Given user open website
     Then user is on login page
